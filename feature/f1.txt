@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is new branch created on top of feature origin
+=======
+fir file in feature branch , this change is for second commit to feature branch locally 
+>>>>>>> c6b1f29f9c3ffddadcf3bf0c415593d9eeb660f6
